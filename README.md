@@ -1,17 +1,17 @@
 <h1>Hello from  @Lawrence-SmartPageMaker</h1>
 📫 You can reach me ...
-<ol name='reaching me'>
+<ul name='reaching me'>
   <li>
-    <a href='linkedin.com/in/lawrence-rosen-412467156'>
+    <a href='https://www.linkedin.com/in/lawrence-rosen-412467156'>
       Linked In: Lawrence Rosen
     </a> 
   </li>
   <li>
     <a href="mailto:lawrenceusrwork@gmail.com">
-      Google Mail
+      Gmail
     </a>
   </li>
-</ol>
+</ul>
 <h2>These are the places I have to show</h2>
 
 
