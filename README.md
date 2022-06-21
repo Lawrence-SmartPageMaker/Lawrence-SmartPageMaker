@@ -13,7 +13,7 @@
   </li>
 </ul>
 <h2>These are the places I have to show</h2>
-  <a href="tree/main/NodeJS">
+  <a href="https://github.com/Lawrence-SmartPageMaker/Lawrence-SmartPageMaker/tree/main/NodeJS">
     <h4>NodeJS</h4>
   </a>
   <blockquote name='NodeJS'>
