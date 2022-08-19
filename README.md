@@ -24,11 +24,14 @@
     </p>
   </blockquote> 
 
-  <h4>CSS</h4>
-  <blockquote>
+  <h4>VBA-MS-products</h4>
+  <a href="https://github.com/Lawrence-SmartPageMaker/Lawrence-SmartPageMaker/tree/main/VBA-MS-products">
+    VBA-MS-products
+  </a>
+  <blockquote name="VBA-MS-products">
     <p>
-      Going to start this soon. The idea is some sort of working model<br>
-      that shows how some of these things work together.
+      A number of practical demonstrations. They are about VBA and
+      related Microsoft Products.
     </p>
   </blockquote> 
 
