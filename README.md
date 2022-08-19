@@ -24,7 +24,7 @@
     </p>
   </blockquote> 
 
-  <a href="https://github.com/Lawrence-SmartPageMaker/Lawrence-SmartPageMaker/tree/main/VBA-MS-products">
+  <a href="https://github.com/Lawrence-SmartPageMaker/VBA-MS-products">
     VBA-MS-products
   </a>
   <blockquote name="VBA-MS-products">
