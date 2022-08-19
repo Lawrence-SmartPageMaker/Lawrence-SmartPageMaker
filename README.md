@@ -29,8 +29,8 @@
   </a>
   <blockquote name="VBA-MS-products">
     <p>
-      A number of practical demonstrations. They are about VBA and
-      related Microsoft Products.
+      A number of practical demonstrations. They are about VBA<br>
+      and related Microsoft Products.
     </p>
   </blockquote> 
 
