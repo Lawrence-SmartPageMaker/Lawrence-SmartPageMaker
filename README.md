@@ -13,6 +13,19 @@
   </li>
 </ul>
 <h2>These are the places I have to show</h2>
+
+  
+  <a href="https://github.com/Lawrence-SmartPageMaker/ALPHA-cardDemo">
+    ALPHA-cardDemo
+  </a>
+  <blockquote name="ALPHA-cardDemo">
+    <p>
+      The result of my own UX project. It shows <em>proof of concept</em> that
+      serious students would enjoy getting control of their own study cards; the
+      top-down approach to dealing with the deck study cards as a single table.
+    </p>
+  </blockquote> 
+
   <a href="https://github.com/Lawrence-SmartPageMaker/Lawrence-SmartPageMaker/tree/main/NodeJS">
     NodeJS
   </a>
