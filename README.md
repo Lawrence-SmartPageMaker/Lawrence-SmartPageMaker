@@ -20,9 +20,11 @@
   </a>
   <blockquote name="ALPHA-cardDemo">
     <p>
-      The result of my own UX project. It shows <em>proof of concept</em> that
-      serious students would enjoy getting control of their own study cards; the
-      top-down approach to dealing with the deck study cards as a single table.
+      A series of 4 episodes which show working in Node JavaScript<br>
+      The result of my own UX project. It shows <em>proof of concept</em><br>
+      that serious students would enjoy getting control of their own study<br> 
+      cards; the top-down approach to dealing with the deck study cards as<br>
+      a single table.
     </p>
   </blockquote> 
 
